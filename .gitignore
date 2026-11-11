@@ -1,0 +1,21 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Configurações e segredos
+.env
+
+# Bytecodes e cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Logs locais
+logs/*.log
+
+# Dados grandes locais (raw contém dados pessoais de contato dos agentes — não commitar)
+data/raw/*
+data/processed/*
+!data/processed/clean_listings.csv

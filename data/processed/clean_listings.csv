@@ -1,0 +1,25 @@
+﻿id,formattedAddress,city,state,zipCode,price,squareFootage,bedrooms,bathrooms,propertyType,daysOnMarket,status,price_per_sqft,area_m2,price_per_m2
+"5474-Sw-78th-St,-Unit-5476,-Miami,-FL-33143","5474 Sw 78th St, Unit 5476, Miami, FL 33143",Miami,FL,33143,3000,923.0,2,1.0,Apartment,2,Active,3.25,85.75,34.99
+"2333-Brickell-Ave,-Apt-602,-Miami,-FL-33129","2333 Brickell Ave, Apt 602, Miami, FL 33129",Miami,FL,33129,5600,1460.0,2,2.0,Condo,2,Active,3.84,135.64,41.29
+"90-Ne-32nd-St,-Unit-923,-Miami,-FL-33137","90 Ne 32nd St, Unit 923, Miami, FL 33137",Miami,FL,33137,3000,444.0,0,1.0,Condo,2,Active,6.76,41.25,72.73
+"921-Sw-7th-St,-Apt-3,-Miami,-FL-33130","921 Sw 7th St, Apt 3, Miami, FL 33130",Miami,FL,33130,2100,6379.0,2,1.5,Apartment,2,Active,0.33,592.63,3.54
+"9441-Sw-4th-St,-Apt-202,-Miami,-FL-33174","9441 Sw 4th St, Apt 202, Miami, FL 33174",Miami,FL,33174,2600,1086.0,3,2.0,Condo,2,Active,2.39,100.89,25.77
+"1005-Spring-Garden-Rd,-Miami,-FL-33136","1005 Spring Garden Rd, Miami, FL 33136",Miami,FL,33136,2147,475.0,0,1.0,Apartment,402,Active,4.52,44.13,48.65
+"3729-Sw-152nd-Pl,-Unit-3729,-Miami,-FL-33185","3729 Sw 152nd Pl, Unit 3729, Miami, FL 33185",Miami,FL,33185,3800,1501.0,5,2.5,Townhouse,2,Active,2.53,139.45,27.25
+"240-Nw-25th-St,-Miami,-FL-33127","240 Nw 25th St, Miami, FL 33127",Miami,FL,33127,2395,437.0,0,1.0,Apartment,638,Active,5.48,40.6,58.99
+"13855-Nw-17th-Ave,-Miami,-FL-33167","13855 Nw 17th Ave, Miami, FL 33167",Miami,FL,33167,2050,602.0,1,1.0,Apartment,103,Active,3.41,55.93,36.65
+"750-Nw-13th-Ave,-Miami,-FL-33125","750 Nw 13th Ave, Miami, FL 33125",Miami,FL,33125,1795,552.0,1,1.0,Apartment,28,Active,3.25,51.28,35.0
+"3985-Sw-10th-St,-Unit-A,-Miami,-FL-33134","3985 Sw 10th St, Unit A, Miami, FL 33134",Miami,FL,33134,2900,963.0,2,1.0,Apartment,2,Active,3.01,89.47,32.41
+"14782-Sw-143rd-Ter,-Unit-0,-Miami,-FL-33196","14782 Sw 143rd Ter, Unit 0, Miami, FL 33196",Miami,FL,33196,4000,1954.0,4,2.5,Single Family,2,Active,2.05,181.53,22.03
+"12755-Sw-136th-St,-Miami,-FL-33186","12755 Sw 136th St, Miami, FL 33186",Miami,FL,33186,2025,798.0,1,1.0,Apartment,884,Active,2.54,74.14,27.31
+"520-Brickell-Key-Dr,-Apt-A607,-Miami,-FL-33131","520 Brickell Key Dr, Apt A607, Miami, FL 33131",Miami,FL,33131,4500,1137.0,2,2.0,Condo,2,Active,3.96,105.63,42.6
+"350-S-Miami-Ave,-Apt-3513,-Miami,-FL-33130","350 S Miami Ave, Apt 3513, Miami, FL 33130",Miami,FL,33130,3500,920.0,2,2.0,Condo,2,Active,3.8,85.47,40.95
+"3180-Sw-22nd-Ter,-Unit-604,-Miami,-FL-33145","3180 Sw 22nd Ter, Unit 604, Miami, FL 33145",Miami,FL,33145,2500,745.0,1,1.0,Condo,2,Active,3.36,69.21,36.12
+"328-Sw-15th-Ave,-Miami,-FL-33135","328 Sw 15th Ave, Miami, FL 33135",Miami,FL,33135,4500,2009.0,5,3.0,Single Family,2,Active,2.24,186.64,24.11
+"8485-Hammocks-Blvd,-Miami,-FL-33193","8485 Hammocks Blvd, Miami, FL 33193",Miami,FL,33193,2085,831.0,1,1.0,Apartment,714,Active,2.51,77.2,27.01
+"3060-Sw-37th-Ave,-Miami,-FL-33133","3060 Sw 37th Ave, Miami, FL 33133",Miami,FL,33133,2114,408.0,0,1.0,Apartment,141,Active,5.18,37.9,55.78
+"3050-Sw-37th-Ave,-Miami,-FL-33133","3050 Sw 37th Ave, Miami, FL 33133",Miami,FL,33133,3050,856.0,2,1.0,Apartment,141,Active,3.56,79.52,38.36
+"4685-Nw-9th-St,-Apt-208,-Miami,-FL-33126","4685 Nw 9th St, Apt 208, Miami, FL 33126",Miami,FL,33126,2200,990.0,2,2.0,Condo,2,Active,2.22,91.97,23.92
+"50-Biscayne-Blvd,-Apt-2801,-Miami,-FL-33132","50 Biscayne Blvd, Apt 2801, Miami, FL 33132",Miami,FL,33132,3900,1256.0,2,2.0,Condo,2,Active,3.11,116.69,33.42
+"5170-Nw-2nd-St,-Unit-1,-Miami,-FL-33126","5170 Nw 2nd St, Unit 1, Miami, FL 33126",Miami,FL,33126,1650,1734.0,1,1.0,Single Family,2,Active,0.95,161.09,10.24
+"11200-Biscayne-Blvd,-Miami,-FL-33181","11200 Biscayne Blvd, Miami, FL 33181",Miami,FL,33181,2257,670.0,1,1.0,Apartment,414,Active,3.37,62.25,36.26
