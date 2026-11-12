@@ -18,12 +18,7 @@ def fetch_rental_listings(
     limit: int = 50,
     use_cache: bool = True,
 ) -> list[dict[str, Any]]:
-    """
-    Pull rental listings from the RentCast API, or reuse the local cache.
-
-    The raw JSON gets cached to data/raw/ so I don't burn API calls
-    while iterating on the transform step.
-    """
+    
     # 1. local cache check (saves API calls)
     if use_cache and RAW_FILE_PATH.exists():
         print(f"[CACHE] Loading local data from: {RAW_FILE_PATH}")
@@ -35,8 +30,7 @@ def fetch_rental_listings(
     # 2. API key check
     if not RENTCAST_API_KEY or RENTCAST_API_KEY == "your_api_key_here":
         raise ValueError(
-            "RENTCAST_API_KEY not set in .env - add your key "
-            "or drop a manual sample_raw.json in data/raw/."
+       
         )
 
     headers = {"Accept": "application/json", "X-Api-Key": RENTCAST_API_KEY}
@@ -52,7 +46,7 @@ def fetch_rental_listings(
             data = response.json()
             print(f"[HTTP] Success: {len(data)} listings received.")
 
-            # 4. bronze layer: keep the raw payload untouched on disk
+            # 4. 
             with open(RAW_FILE_PATH, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
             print(f"[DISK] Raw backup saved to: {RAW_FILE_PATH}")
