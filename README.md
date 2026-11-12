@@ -2,6 +2,10 @@
 
 An end-to-end data pipeline that extracts live rental listings from the [RentCast API](https://www.rentcast.io/), cleans and enriches them with investment metrics, and delivers both an executive visual report (PNG) and an interactive analytics dashboard (Streamlit).
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://real-estate-rental-etl.streamlit.app/)
+
+**[→ Live demo](https://real-estate-rental-etl.streamlit.app/)** — filter listings by rent, property type and spot the best $/sqft deals. No setup needed.
+
 ![Market Overview](reports/figures/market_overview.png)
 
 ## What it does
