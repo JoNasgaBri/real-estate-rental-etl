@@ -8,11 +8,7 @@ def export_data(
     csv_filename: str = "clean_listings.csv",
     json_filename: str = "clean_listings.json",
 ) -> dict[str, Path]:
-    """
-    Write the cleaned DataFrame to the processed (gold) layer.
 
-    CSV uses utf-8-sig so it opens cleanly in Excel; JSON is record-oriented.
-    """
     if df.empty:
         print("[EXPORT] Empty DataFrame - nothing exported.")
         return {}
